@@ -1,0 +1,2 @@
+# Statistical-Analysis-Policy-Case-Study
+This project allows you to select a particular policy problem in which you are interested, to work with data to address the question, to apply the statistical techniques you learn in class to analyze the problem, and to interpret and present the results in a complete policy framework. The end result will be a complete policy analysis showcasing your ability to think through the issues in the course and conduct rigorous policy research.
